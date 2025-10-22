@@ -6,12 +6,16 @@ body {
   margin: 0;
   padding: 0;
 }
+
+
 h1 {
-  color: green;
+  color: greenyellow;
   font-weight: bold;
   text-align: center;
   font-family: Arial, sans-serif;
 }
+
+
 .categoria {
   background-color: white;
   color: blue;
@@ -19,23 +23,30 @@ h1 {
   padding: 5px;
   border-radius: 5px;
 }
+
+
 .item {
   list-style-type: none;
   font-size: 18px;
   margin: 5px 0;
 }
+
+
 .bebida {
   color: orange;
   background-color: white;
   padding: 5px;
  
 }
+
+
 .sobremesa {
   color: red;
   background-color: gray;
   padding: 5px;
 
 }
+
 
 footer {
   text-align: center;
